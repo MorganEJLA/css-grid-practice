@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://github.com/MorganEJLA/css-grid-practice)
+- Live Site URL: (https://morganejla.github.io/css-grid-practice/)
 
 ## My process
 I did a code along on YouTube, as I needed a refresher in CSS Grid, one of the things that I took away from this was using the Layout tab in the Dev Tools. 
